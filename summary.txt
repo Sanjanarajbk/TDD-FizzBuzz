@@ -1,0 +1,9 @@
+1.first write the test case before writing code -> TDD
+2.test fails
+3.write minimal logic to pass the test(It should not break the existing test)
+AAA test format
+4.test pass
+5.refactor the code (naming conventions , extracting to methods)
+6.refactoring should not break the existing functionality
+
+Ping pong -> pairing method -> one test other code and vice-versa and continues
