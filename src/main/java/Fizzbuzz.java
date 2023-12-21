@@ -8,7 +8,7 @@ public class Fizzbuzz {
         if (isDivisibleBy(number,5))
             return "Buzz";
 
-        return null;
+        return Integer.toString(number);
     }
 
     private static boolean isDivisibleBy(int number,int divisor) {
